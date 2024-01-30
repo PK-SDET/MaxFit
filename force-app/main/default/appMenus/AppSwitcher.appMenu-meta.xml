@@ -92,4 +92,8 @@
         <name>standard__PreconfiguredLightningServiceConsole</name>
         <type>CustomApplication</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>DEVHUB_4mo6l3igbjbui0oipilc</name>
+        <type>ConnectedApp</type>
+    </appMenuItems>
 </AppMenu>
